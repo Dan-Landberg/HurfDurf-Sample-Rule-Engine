@@ -1,0 +1,14 @@
+C:\Users\Danimal\Projects\RulesEngine\RulesEngine.Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Danimal\Projects\RulesEngine\RulesEngine.Sample\bin\Debug\RulesEngine.Sample.exe
+C:\Users\Danimal\Projects\RulesEngine\RulesEngine.Sample\bin\Debug\RulesEngine.Sample.pdb
+C:\Users\Danimal\Projects\RulesEngine\RulesEngine.Sample\bin\Debug\RulesEngine.dll
+C:\Users\Danimal\Projects\RulesEngine\RulesEngine.Sample\bin\Debug\RulesEngine.pdb
+C:\Users\Danimal\Projects\RulesEngine\RulesEngine.Sample\obj\Debug\RulesEngine.Sample.exe
+C:\Users\Danimal\Projects\RulesEngine\RulesEngine.Sample\obj\Debug\RulesEngine.Sample.pdb
+C:\Users\Danimal\Projects\HurfDurf-Sample-Rule-Engine\RulesEngine.Sample\bin\Debug\RulesEngine.Sample.exe
+C:\Users\Danimal\Projects\HurfDurf-Sample-Rule-Engine\RulesEngine.Sample\bin\Debug\RulesEngine.Sample.pdb
+C:\Users\Danimal\Projects\HurfDurf-Sample-Rule-Engine\RulesEngine.Sample\bin\Debug\RulesEngine.dll
+C:\Users\Danimal\Projects\HurfDurf-Sample-Rule-Engine\RulesEngine.Sample\bin\Debug\RulesEngine.pdb
+C:\Users\Danimal\Projects\HurfDurf-Sample-Rule-Engine\RulesEngine.Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Danimal\Projects\HurfDurf-Sample-Rule-Engine\RulesEngine.Sample\obj\Debug\RulesEngine.Sample.exe
+C:\Users\Danimal\Projects\HurfDurf-Sample-Rule-Engine\RulesEngine.Sample\obj\Debug\RulesEngine.Sample.pdb

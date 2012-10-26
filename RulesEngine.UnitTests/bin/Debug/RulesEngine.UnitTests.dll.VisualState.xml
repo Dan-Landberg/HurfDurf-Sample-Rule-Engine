@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1015]C:\Users\Danimal\Projects\RulesEngine\RulesEngine.UnitTests\bin\Debug\RulesEngine.UnitTests.dll</TopNode>
+  <SelectedNode>[0-1015]C:\Users\Danimal\Projects\RulesEngine\RulesEngine.UnitTests\bin\Debug\RulesEngine.UnitTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1015]C:\Users\Danimal\Projects\RulesEngine\RulesEngine.UnitTests\bin\Debug\RulesEngine.UnitTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1016]RulesEngine" Expanded="true" />
+    <Node UniqueName="[0-1017]RulesEngine.UnitTests" Expanded="true" />
+    <Node UniqueName="[0-1018]RulesEngine.UnitTests.Domain" Expanded="true" />
+    <Node UniqueName="[0-1000]RulesEngine.UnitTests.Domain.RuleSetTests" Expanded="true" />
+    <Node UniqueName="[0-1019]RulesEngine.UnitTests.Sample" Expanded="true" />
+    <Node UniqueName="[0-1009]RulesEngine.UnitTests.Sample.OverMinimumIdealRangeRuleTests" Expanded="true" />
+    <Node UniqueName="[0-1006]RulesEngine.UnitTests.Sample.OverMinimumRangeRuleTests" Expanded="true" />
+    <Node UniqueName="[0-1012]RulesEngine.UnitTests.Sample.UnderMaximumIdealRangeRuleTest" Expanded="true" />
+    <Node UniqueName="[0-1003]RulesEngine.UnitTests.Sample.UnderMaxRangeTests" Expanded="true" />
+  </Nodes>
+</VisualState>
