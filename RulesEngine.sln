@@ -3,15 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesEngine.Domain", "RulesEngine\RulesEngine.Domain.csproj", "{FF78875B-D480-4F87-9E44-E62584F63C24}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".UnitTests", ".UnitTests", "{F743705A-8031-431A-9620-34F1EBEBBD04}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{F78ABC67-D3D5-426D-A80E-250FDAD2822C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesEngine.UnitTests", "RulesEngine.UnitTests\RulesEngine.UnitTests.csproj", "{ADC39E9F-DC6E-4446-89BE-8402B6CEDC8F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesEngine.Sample", "RulesEngine.Sample\RulesEngine.Sample.csproj", "{11246455-F17E-4725-BBC8-B429F1F02F03}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{A9338441-3DD5-43B1-B7AF-C069FB60E06B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,10 +28,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{ADC39E9F-DC6E-4446-89BE-8402B6CEDC8F} = {F743705A-8031-431A-9620-34F1EBEBBD04}
-		{FF78875B-D480-4F87-9E44-E62584F63C24} = {F78ABC67-D3D5-426D-A80E-250FDAD2822C}
-		{11246455-F17E-4725-BBC8-B429F1F02F03} = {A9338441-3DD5-43B1-B7AF-C069FB60E06B}
 	EndGlobalSection
 EndGlobal
